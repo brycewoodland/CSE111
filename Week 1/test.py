@@ -1,0 +1,5 @@
+print('Hello Bryce!')
+print('1')
+print('2')
+print('3')
+print('Welcome to CSE 111!')
